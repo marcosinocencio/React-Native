@@ -1,0 +1,11 @@
+{	 
+	 "Importar dependências do React Native frequentemente usado": {
+	 	"scope": "javascript,typescript",
+	 	"prefix": "imr",
+	 	"body": [
+			"import React, { Component } from 'react'",
+			"import { } from 'react-native'"
+	 	],
+	 	"description": "Import frequentemente usado do React Native"
+	 }
+}
